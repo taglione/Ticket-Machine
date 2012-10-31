@@ -16,4 +16,7 @@ public class Nota {
     public String toString() {
         return " Valor: " + preco;
     }
+    public String teste(){
+        return "";
+    }
 }
